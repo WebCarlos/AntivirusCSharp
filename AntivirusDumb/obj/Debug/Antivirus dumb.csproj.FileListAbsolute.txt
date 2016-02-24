@@ -33,3 +33,19 @@ D:\Cuarentena\Antivirus\AntivirusDumb\obj\Debug\AntivirusForm.AntivirusMain.reso
 D:\Cuarentena\Antivirus\AntivirusDumb\obj\Debug\AntivirusForm.Monitor.resources
 D:\Cuarentena\Antivirus\AntivirusDumb\obj\Debug\AntivirusDumb.Properties.Resources.resources
 D:\Cuarentena\Antivirus\AntivirusDumb\obj\Debug\Antivirus dumb.csproj.GenerateResource.Cache
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\bin\Debug\AntivirusDumb.exe.config
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\obj\Debug\AntivirusDumb.exe
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\obj\Debug\AntivirusDumb.pdb
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\bin\Debug\VirusDatabase.mdf
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\bin\Debug\VirusDatabase_log.ldf
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\bin\Debug\AntivirusDumb.exe
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\bin\Debug\AntivirusDumb.pdb
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\bin\Debug\VirusTotal.NET.dll
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\bin\Debug\RestSharp.dll
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\bin\Debug\VirusTotal.NET.pdb
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\bin\Debug\RestSharp.xml
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\obj\Debug\Antivirus dumb.csprojResolveAssemblyReference.cache
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\obj\Debug\AntivirusForm.AntivirusMain.resources
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\obj\Debug\AntivirusForm.Monitor.resources
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\obj\Debug\AntivirusDumb.Properties.Resources.resources
+C:\Users\Nullx\Documents\GitHub\AntivirusCSharp\AntivirusDumb\obj\Debug\Antivirus dumb.csproj.GenerateResource.Cache

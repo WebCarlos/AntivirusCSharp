@@ -24,7 +24,8 @@ namespace AntivirusForm
         {
             try
             {
-                cn = new SqlConnection("Data Source=(LocalDB)\\v11.0;AttachDbFilename=D:\\Dropbox\\Antivirus\\Antivirus\\AntivirusForm\\VirusDatabase.mdf;Integrated Security=True");
+                cn = new SqlConnection("Data Source=(LocalDB)\\v11.0;AttachDbFilename=|DataDirectory|\\VirusDatabase.mdf;Integrated Security=True");
+                
                 cn.Open();
                 //MessageBox.Show("Conectado");
 
